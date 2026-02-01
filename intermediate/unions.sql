@@ -1,10 +1,10 @@
 /*
 UNIONS
 This is also a UNION DISTINCT
-Return unique values for out tables
+Return unique values of tables
 
 UNION ALL
-This shows all the result from the UNION and not distinct values
+This shows all the results from the UNION and not distinct values
 */
 
 SELECT first_name, last_name
