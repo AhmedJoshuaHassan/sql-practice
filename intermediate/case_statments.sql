@@ -25,7 +25,8 @@ END AS new_salary,
 CASE
 	WHEN dept_id = 6 THEN salary *.10
 END AS Bonus
-FROM employee_salary;
+FROM employee_salary
+;
 
 SELECT *
 FROM employee_salary;
